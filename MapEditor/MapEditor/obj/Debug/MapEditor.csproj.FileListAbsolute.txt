@@ -1,0 +1,44 @@
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\bin\Debug\MapEditor.exe
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\bin\Debug\MapEditor.pdb
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\obj\Debug\MapEditor.EditForm.resources
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\obj\Debug\MapEditor.exe
+C:\Documents and Settings\600004293\Local Settings\Application Data\Temporary Projects\MapEditor\obj\Debug\MapEditor.pdb
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.EditForm.resources
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.AddMap.resources
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.AboutMapEditor.resources
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.MapGrid.resources
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe.manifest
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.application
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.TrustInfo.xml
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.exe.manifest
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.application
+C:\Documents and Settings\600004293\My Documents\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.AddTileForm.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe.manifest
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.application
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.EditForm.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.AddMap.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.AboutMapEditor.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.AddTileForm.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.MapGrid.resources
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.TrustInfo.xml
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.exe.manifest
+F:\Projects\RPG\Visual Studio 2008\Projects\MapEditor\MapEditor\obj\Debug\MapEditor.application
