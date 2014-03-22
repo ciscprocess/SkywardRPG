@@ -1,0 +1,9 @@
+Overall Timeline for SkywardReborn: Project Goals
+Prerequisites for Versions:
+	*Skyward v0.0.x: initiated project and enabled basic Input and Drawing Routines
+	*Skyward v0.1.x: have a basic, configurable engine with basic Audio output, and a good, basic map system
+	*Skyward v0.2.x: have an engine where GUI, MAP DRAWING, and MUSIC routines are -sufficient- for final product in ability
+	*Skyward v0.3.x: have an engine with a -sufficient- Battle System(s)
+	*Skyward v0.4.x: have an engine capable of handling Gameplay Scripts and Visual Sequences, and separate interfaces
+	*Skyward v0.5.x: engine must be capable of handling all forseeable game content
+	*Skyward v0.6.x and after: Content development and engine maturation

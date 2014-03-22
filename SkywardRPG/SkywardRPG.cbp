@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SkywardRPG" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\SkywardRPG" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\Deploy" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:\Dev-Cpp\lib\liballeg.a" />
+					<Add library="..\..\..\CodeBlocks\MinGW\lib\audiere.lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\SkywardRPG" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="..\..\..\CodeBlocks\MinGW\lib\audiere.lib" />
+					<Add library="C:\Dev-Cpp\lib\liballeg.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include\AudioException.h" />
+		<Unit filename=".\include\BasicContainer.h" />
+		<Unit filename=".\include\Button.h" />
+		<Unit filename=".\include\CharManager.h" />
+		<Unit filename=".\include\CharNPC.h" />
+		<Unit filename=".\include\CharPC.h" />
+		<Unit filename=".\include\CharProps.h" />
+		<Unit filename=".\include\ConfigFileException.h" />
+		<Unit filename="include\ConfigFileReader.h" />
+		<Unit filename="include\Delegate.h" />
+		<Unit filename=".\include\Event.h" />
+		<Unit filename=".\include\EventCapable.h" />
+		<Unit filename="include\FaceKeyEvent.h" />
+		<Unit filename=".\include\GetTileException.h" />
+		<Unit filename=".\include\Globals.h" />
+		<Unit filename=".\include\GuiElement.h" />
+		<Unit filename=".\include\GuiManager.h" />
+		<Unit filename=".\include\Input.h" />
+		<Unit filename=".\include\LogEventWriter.h" />
+		<Unit filename=".\include\Logger.h" />
+		<Unit filename="include\MapEvent.h" />
+		<Unit filename="include\MapObject.h" />
+		<Unit filename=".\include\MessageBox.h" />
+		<Unit filename=".\include\MouseDownEvent.h" />
+		<Unit filename="include\MouseOutEvent.h" />
+		<Unit filename=".\include\MouseOverEvent.h" />
+		<Unit filename=".\include\Movable.h" />
+		<Unit filename=".\include\MusicPlayer.h" />
+		<Unit filename="include\ObjectManager.h" />
+		<Unit filename=".\include\Program.h" />
+		<Unit filename=".\include\ScreenPanel.h" />
+		<Unit filename=".\include\Settings.h" />
+		<Unit filename=".\include\SkywardReborn_private.h" />
+		<Unit filename=".\include\Tile.h" />
+		<Unit filename="include\Word.h" />
+		<Unit filename=".\include\World.h" />
+		<Unit filename="src\AudioException.cpp" />
+		<Unit filename=".\src\Button.cpp" />
+		<Unit filename=".\src\CharNPC.cpp" />
+		<Unit filename=".\src\CharPC.cpp" />
+		<Unit filename=".\src\ConfigFileException.cpp" />
+		<Unit filename="src\ConfigFileReader.cpp" />
+		<Unit filename="src\Delegate.cpp" />
+		<Unit filename=".\src\Event.cpp" />
+		<Unit filename=".\src\EventCapable.cpp" />
+		<Unit filename="src\FaceKeyEvent.cpp" />
+		<Unit filename=".\src\GetTileException.cpp" />
+		<Unit filename=".\src\Globals.cpp" />
+		<Unit filename=".\src\GuiElement.cpp" />
+		<Unit filename=".\src\GuiManager.cpp" />
+		<Unit filename=".\src\Input.cpp" />
+		<Unit filename=".\src\LogEventWriter.cpp" />
+		<Unit filename=".\src\Logger.cpp" />
+		<Unit filename="src\MapEvent.cpp" />
+		<Unit filename="src\MapObject.cpp" />
+		<Unit filename=".\src\MessageBox.cpp" />
+		<Unit filename=".\src\MouseDownEvent.cpp" />
+		<Unit filename="src\MouseOutEvent.cpp" />
+		<Unit filename=".\src\MouseOverEvent.cpp" />
+		<Unit filename=".\src\MusicPlayer.cpp" />
+		<Unit filename="src\ObjectManager.cpp" />
+		<Unit filename=".\src\Program.cpp" />
+		<Unit filename=".\src\ScreenPanel.cpp" />
+		<Unit filename=".\src\Settings.cpp" />
+		<Unit filename=".\src\Tile.cpp" />
+		<Unit filename="src\Word.cpp" />
+		<Unit filename=".\src\World.cpp" />
+		<Unit filename=".\src\main.cpp" />
+		<Unit filename=".\src\main_old.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

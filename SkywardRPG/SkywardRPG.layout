@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\AudioException.h" open="0" top="0" tabpos="0">
+		<Cursor position="242" topLine="0" />
+	</File>
+	<File name="include\ConfigFileReader.h" open="0" top="0" tabpos="9">
+		<Cursor position="877" topLine="0" />
+	</File>
+	<File name="include\Delegate.h" open="0" top="0" tabpos="5">
+		<Cursor position="485" topLine="0" />
+	</File>
+	<File name="include\FaceKeyEvent.h" open="0" top="0" tabpos="7">
+		<Cursor position="392" topLine="0" />
+	</File>
+	<File name="include\MapEvent.h" open="0" top="0" tabpos="5">
+		<Cursor position="623" topLine="0" />
+	</File>
+	<File name="include\MapObject.h" open="1" top="0" tabpos="2">
+		<Cursor position="99" topLine="0" />
+	</File>
+	<File name="include\MouseOutEvent.h" open="0" top="0" tabpos="1">
+		<Cursor position="471" topLine="0" />
+	</File>
+	<File name="include\ObjectManager.h" open="1" top="0" tabpos="4">
+		<Cursor position="544" topLine="0" />
+	</File>
+	<File name="src\AudioException.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="66" topLine="0" />
+	</File>
+	<File name="src\ConfigFileReader.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="1905" topLine="61" />
+	</File>
+	<File name="src\Delegate.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name="src\FaceKeyEvent.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="577" topLine="0" />
+	</File>
+	<File name="src\MapEvent.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="429" topLine="0" />
+	</File>
+	<File name="src\MapObject.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1860" topLine="48" />
+	</File>
+	<File name="src\MouseOutEvent.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="955" topLine="0" />
+	</File>
+	<File name="src\ObjectManager.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="862" topLine="12" />
+	</File>
+	<File name="src\Word.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name=".\src\main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1159" topLine="49" />
+	</File>
+</CodeBlocks_layout_file>

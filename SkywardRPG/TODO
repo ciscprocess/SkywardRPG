@@ -1,0 +1,41 @@
+TODO List for SkywardReborn:
+	Current Version: Skyward v0.1.2
+	
+	To Reach v0.1.1:
+		- Implement a Delegate System: Done
+		- Reorganize Source Folder to better conform to Standards: Done
+	To Reach v0.1.2:
+		- Implement Object Layer: Done
+	To Reach v0.1.3
+		- Implement GUI Ownership: Done
+		- Implement GUI Disable Switch: Done
+		- Implement GuiElemnt Resize and Move
+		- Enable Parallax BG
+	To Reach v0.1.4
+		- Enable MusicPlayer PLaylist
+		- Create & Implement SoundEffect class
+	To Reach v0.1.5
+		- Improve Collision Detection
+		- Enable Animation & Semitransparency in Object Layer
+	To Reach v0.1.6
+		- Implement GuiContainer
+		- Implement a GUI Window Handle
+	To Reach v0.1.7
+		- Implement scrollbar for GUI
+		- Implment Statusbar for Resize and info in GUI
+	To Reach v0.1.8:
+		- Create Separate Map Set
+		- Implement inter-map teleportation 
+
+TODO List for MapEditor:
+	Current Version: MapEditor v0.1.0
+	
+	To Reach v0.1.1:
+		- Implement Hollow Rectangle Tool
+		- Eliminate Bug with Rect Tool
+	To Reach v0.1.2:
+		- Implement Object Layer editing
+	To Reach v0.1.3:
+		- Implement Cut/Paste
+		- Implement Zoom In/Out
+			

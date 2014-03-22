@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1304286181 source:f:\projects\skywardrpg\skywardrpg\src\button.cpp
+	"Globals.h"
+	<string>
+
+1264023448 source:f:\projects\skywardrpg\skywardrpg\src\charnpc.cpp
+	"Globals.h"
+
+1281377240 source:f:\projects\skywardrpg\skywardrpg\src\charpc.cpp
+	"Globals.h"
+
+1294956274 source:f:\projects\skywardrpg\skywardrpg\src\configfileexception.cpp
+	"Globals.h"
+
+1304288219 source:f:\projects\skywardrpg\skywardrpg\src\event.cpp
+	"Globals.h"
+	"Delegate.h"
+
+1287958850 source:f:\projects\skywardrpg\skywardrpg\src\eventcapable.cpp
+	"EventCapable.h"
+
+1294955012 source:f:\projects\skywardrpg\skywardrpg\src\gettileexception.cpp
+	"Globals.h"
+
+1262822736 source:f:\projects\skywardrpg\skywardrpg\src\globals.cpp
+	"Program.h"
+	"ScreenPanel.h"
+	"World.h"
+
+1304719486 source:f:\projects\skywardrpg\skywardrpg\src\guielement.cpp
+	"Globals.h"
+
+1304719511 source:f:\projects\skywardrpg\skywardrpg\src\guimanager.cpp
+	"Globals.h"
+	<vector>
+
+1294519151 source:f:\projects\skywardrpg\skywardrpg\src\input.cpp
+	"Globals.h"
+
+1294605289 source:f:\projects\skywardrpg\skywardrpg\src\logeventwriter.cpp
+	"LogEventWriter.h"
+	"Globals.h"
+
+1262822736 source:f:\projects\skywardrpg\skywardrpg\src\logger.cpp
+	<fstream>
+	<string>
+	<time.h>
+	"Logger.h"
+
+1304719551 source:f:\projects\skywardrpg\skywardrpg\src\messagebox.cpp
+	"Globals.h"
+	"LogEventWriter.h"
+	"Delegate.h"
+	<math.h>
+
+1304288404 source:f:\projects\skywardrpg\skywardrpg\src\mousedownevent.cpp
+	"Globals.h"
+
+1304332343 source:f:\projects\skywardrpg\skywardrpg\src\mouseoverevent.cpp
+	"Globals.h"
+	<sstream>
+
+1294607280 source:f:\projects\skywardrpg\skywardrpg\src\musicplayer.cpp
+	"MusicPlayer.h"
+
+1304722161 source:f:\projects\skywardrpg\skywardrpg\src\program.cpp
+	"Globals.h"
+	"LogEventWriter.h"
+
+1304315833 source:f:\projects\skywardrpg\skywardrpg\src\screenpanel.cpp
+	"Globals.h"
+	<fstream>
+
+1281827064 source:f:\projects\skywardrpg\skywardrpg\src\settings.cpp
+	"Globals.h"
+
+1266565702 source:f:\projects\skywardrpg\skywardrpg\src\tile.cpp
+	"Globals.h"
+	<string>
+
+1304742374 source:f:\projects\skywardrpg\skywardrpg\src\world.cpp
+	<allegro.h>
+	<fstream>
+	"World.h"
+	"ScreenPanel.h"
+	"CharPC.h"
+	"Tile.h"
+	"Globals.h"
+	"ConfigFileReader.h"
+	<string>
+
+1304741952 source:f:\projects\skywardrpg\skywardrpg\src\main.cpp
+	"Globals.h"
+
+1262822736 source:f:\projects\skywardrpg\skywardrpg\src\main_old.cpp
+
+1294609570 source:f:\projects\skywardrpg\skywardrpg\src\delegate.cpp
+	"Delegate.h"
+	"Globals.h"
+	"LogEventWriter.h"
+
+1304722215 source:f:\projects\skywardrpg\skywardrpg\src\mapobject.cpp
+	<allegro.h>
+	"MapObject.h"
+	"Globals.h"
+	"FaceKeyEvent.h"
+
+1294954984 source:f:\projects\skywardrpg\skywardrpg\src\audioexception.cpp
+	"AudioException.h"
+
+1304734203 source:f:\projects\skywardrpg\skywardrpg\src\objectmanager.cpp
+	"ObjectManager.h"
+	<fstream>
+	"ConfigFileReader.h"
+	"ConfigFileException.h"
+	"MapObject.h"
+	<vector>
+	"Globals.h"
+	<sstream>
+	"MapEvent.h"
+	"Word.h"
+
+1304719362 source:f:\projects\skywardrpg\skywardrpg\src\configfilereader.cpp
+	"Globals.h"
+	"ConfigFileReader.h"
+	"ConfigFileException.h"
+	<vector>
+
+1304289262 source:f:\projects\skywardrpg\skywardrpg\src\mouseoutevent.cpp
+	"MouseOutEvent.h"
+	"Globals.h"
+
+1304324599 source:f:\projects\skywardrpg\skywardrpg\src\mapevent.cpp
+	"MapEvent.h"
+	"Globals.h"
+	"Delegate.h"
+
+1304331695 source:f:\projects\skywardrpg\skywardrpg\src\facekeyevent.cpp
+	"FaceKeyEvent.h"
+	"Globals.h"
+	<math.h>
+
+1304327898 source:f:\projects\skywardrpg\skywardrpg\src\word.cpp
+	"Word.h"
+
